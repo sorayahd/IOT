@@ -1,0 +1,9 @@
+yarn install
+yarn serve
+
+
+server
+
+yarn install 
+yarn start
+
